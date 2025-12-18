@@ -1,0 +1,7 @@
+{
+  "name": "LyricScribe: Kannada Transliteration",
+  "description": "A professional tool for video editors to transliterate handwritten Kannada lyrics written in Devanagari script into native Kannada characters.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
