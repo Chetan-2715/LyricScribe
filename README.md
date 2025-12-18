@@ -1,15 +1,13 @@
 # LyricScribe - Native Kannada Transliteration
 
-A specialized AI-powered tool designed for video editors and content creators. LyricScribe instantly transliterates Kannada lyrics written in Devanagari (Marathi) script back into native Kannada characters.
-
-![LyricScribe App](https://via.placeholder.com/800x400?text=LyricScribe+Preview)
+A specialized AI-powered tool designed for video editors and content creators.<br> 
+LyricScribe instantly transliterates Kannada lyrics written in Devanagari (Marathi) script back into native Kannada characters.
 
 ## 🚀 Features
 
 - **Handwriting Recognition**: Upload images of handwritten lyrics.
 - **Smart Transliteration**: Uses **Gemini 1.5 Flash** to accurately phoneticize and convert Devanagari script to Kannada.
 - **Clean Output**: Returns separate blocks for original extracted text and the transliterated Kannada result.
-- **Video Editor Focused**: Streamlines the workflow for lyric video creation where source material is often handwritten in a different script.
 - **Modern UI**: Built with a responsive, dark-mode aesthetic using Tailwind CSS.
 
 ## 🛠️ Tech Stack
@@ -23,8 +21,8 @@ A specialized AI-powered tool designed for video editors and content creators. L
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd transliteration-app
+   git clone https://github.com/Chetan-2715/LyricScribe.git
+   cd LyricScribe
    ```
 
 2. **Install Dependencies**
@@ -51,7 +49,4 @@ A specialized AI-powered tool designed for video editors and content creators. L
 2. Click to upload or drag & drop an image of handwritten lyrics.
 3. Wait for the AI to process the image.
 4. Copy the transliterated Kannada text for your project.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+---
